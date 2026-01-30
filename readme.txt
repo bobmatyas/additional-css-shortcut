@@ -1,5 +1,5 @@
 === Additional CSS Shortcut ===
-Contributors: lastsplash (a11n)
+Contributors: lastsplash
 Tags: additional css, custom css, site editor, block theme, full site editing
 Requires at least: 6.9
 Tested up to: 6.9
