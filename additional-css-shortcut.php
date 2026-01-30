@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Additional CSS Shortcut
- * Plugin URI:        https://github.com/your-username/additional-css-shortcut
+ * Plugin URI:        https://github.com/bobmatyas/additional-css-shortcut
  * Description:       Adds a quick-access link to the Additional CSS panel in the Site Editor for block themes.
  * Version:           1.0.1
  * Requires at least: 6.9
