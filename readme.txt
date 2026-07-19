@@ -52,6 +52,9 @@ No, this is an activate-and-forget plugin. Once activated, it simply adds the me
 
 == Changelog ==
 
+= 1.0.2 =
+* Indicate WordPress 7.0 compatibility
+
 = 1.0.1 =
 * Updated minimum WordPress version requirement
 * Code improvements and optimization
