@@ -2,8 +2,8 @@
 Contributors: lastsplash
 Tags: additional css, custom css, site editor, block theme, full site editing
 Requires at least: 6.9
-Tested up to: 7.0
-Stable tag: 1.0.2
+Tested up to: 7.1
+Stable tag: 1.0.3
 Requires PHP: 8.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -51,6 +51,9 @@ No, this plugin is specifically designed for block themes. Classic themes alread
 No, this is an activate-and-forget plugin. Once activated, it simply adds the menu link.
 
 == Changelog ==
+
+= 1.0.3 =
+* Tested up to WordPress 7.1.
 
 = 1.0.2 =
 * Indicate WordPress 7.0 compatibility
